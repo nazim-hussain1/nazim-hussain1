@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-I'm **Nazim Hussain**, an aspiring **AI Engineer** and **Hardware Engineering student** passionate about building intelligent systems that solve real-world problems.
+I'm **Nazim Hussain**, an aspiring **AI Engineer** & passionate about building intelligent systems that solve real-world problems.
 
 I enjoy working with **Artificial Intelligence**, **Retrieval-Augmented Generation (RAG)**, **Machine Learning**, and **Automation Projects**. Currently, I'm focused on developing AI-powered legal assistants, trading bots, and practical solutions that combine software engineering with modern AI technologies.
 
