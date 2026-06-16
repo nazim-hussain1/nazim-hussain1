@@ -1,7 +1,5 @@
 # 💫 About Me
 
-## 👋 Introduction
-
 I'm **Nazim Hussain**, an aspiring **AI Engineer** & passionate about building intelligent systems that solve real-world problems.
 
 I enjoy working with **Artificial Intelligence**, Retrieval-Augmented Generation, **Machine Learning**, and **Automation Projects**. Currently, I'm focused on developing AI-powered practical solutions that combine software engineering with modern AI technologies.
