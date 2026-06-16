@@ -1,6 +1,6 @@
 # 💫 About Me
 
-AI Developer and aspiring AI Engineer with a strong interest in designing and developing intelligent systems that address real-world challenges. Experienced in Artificial Intelligence, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), Machine Learning, Computer Vision, and Automation, with a focus on building scalable, efficient, and production-ready AI solutions that bridge modern AI technologies with software engineering.
+AI Developer and aspiring AI Engineer with a strong interest in designing and developing intelligent systems that address real-world challenges. Experienced in Artificial Intelligence, Retrieval-Augmented Generation, (LLMs), Machine Learning, Computer Vision, and Automation, with a focus on building scalable, efficient, and production-ready AI solutions that bridge modern AI technologies with software engineering.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nazim-hussain-508b49212) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nazimali8172@gmail.com) 
