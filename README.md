@@ -41,28 +41,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class AIEngineer:
-
-    def __init__(self):
-        self.name = "Nazim Hussain"
-        self.role = "AI Developer | Aspiring AI Engineer"
-        self.education = "BS Artificial Intelligence, QUEST"
-        self.skills = ["Machine Learning", "Computer Vision", "RAG & LLMs",
-                       "Automation", "FastAPI", "Python"]
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together.")
-
-me = AIEngineer()
-me.say_hi()
-```
-
----
-
 [![](https://komarev.com/ghpvc/?username=nazim-hussain1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
