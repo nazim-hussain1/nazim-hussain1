@@ -1,4 +1,3 @@
-# Hi there, I'm Nazim Hussain! 👋
 
 🌍 **Based in Pakistan** | 💡 **Passionate about building intelligent, real-world AI solutions**
 
